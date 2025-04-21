@@ -9,4 +9,4 @@ Hi! This repository is focused on Store Business Analytics, with a more Data Ana
       - Added a new calculated column: shipping_days (difference between Ship Date and Order Date).
       - Exported new CSV from postgresql query tool
 - Power BI:
-  -
+  - Created a dashboard
