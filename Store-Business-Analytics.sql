@@ -25,4 +25,4 @@ FROM "Store"
 WHERE "Sales" IS NOT NULL
   AND "Order Date" IS NOT NULL
   AND "Ship Date" IS NOT NULL
-  AND "Ship Date" >= "Order Date";
+  AND "Ship Date" >= "Order Date"
