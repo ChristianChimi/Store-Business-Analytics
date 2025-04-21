@@ -1,4 +1,5 @@
 Hi! This a Store Business analystics. Other repositories are more data science than data analytics.
+
 This will be more SQL+PowerBI kind of project.
 Here you will find:
 
