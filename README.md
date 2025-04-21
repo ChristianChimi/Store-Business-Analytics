@@ -1,6 +1,4 @@
-Hi! This a Store Business analystics. Other repositories are more data science than data analytics.
-
-This will be more SQL+PowerBI kind of project.
+Hi! This repository is focused on Store Business Analytics, with a more Data Analytics–oriented approach (SQL + Power BI), compared to other projects which are more Data Science heavy.
 
 - Pre-Processing:
   - Some adjustment in Python on the CSV, as it was giving me ar error on the upload on my postgresql server (some '' were giving problems)
