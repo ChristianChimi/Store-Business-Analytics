@@ -1,3 +1,4 @@
+CREATE OR REPLACE VIEW sales_view AS
 SELECT DISTINCT
        CAST("Row ID" AS INT),
     "Order ID",
@@ -25,4 +26,6 @@ FROM "Store"
 WHERE "Sales" IS NOT NULL
   AND "Order Date" IS NOT NULL
   AND "Ship Date" IS NOT NULL
-  AND "Ship Date" >= "Order Date"
+  AND "Ship Date" >= "Order Date";
+
+SELECT * FROM sales_view:
