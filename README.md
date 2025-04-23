@@ -7,6 +7,7 @@ Hi! This repository is focused on Store Business Analytics, with a more Data Ana
       - Handled NULL values, fixed date inconsistencies (Ship Date < Order Date), and removed duplicates.
       - Casted columns to proper types (INT, NUMERIC, etc.).
       - Added a new calculated column: shipping_days (difference between Ship Date and Order Date).
+      - Creating view to simplify queries.
       - Exported new CSV from postgresql query tool
 - Power BI:
   - Created two dashboard:
