@@ -1,11 +1,11 @@
 ## **Store Business Intelligence**
 
-Hi! This repository is focused on Store Business Analytics, with a more Data Analytics–oriented approach (SQL + Power BI), compared to other projects which are more Data Science heavy.
+This repository focuses on Store Business Analytics, with an emphasis on Data Analytics using SQL and Power BI. This approach is more centered on business intelligence and reporting, as opposed to other projects that are more data science-oriented.
 
 ## **Pre-Processing**
-    - Some adjustments in Python on the CSV, as it was giving me ar error on the upload on my postgresql server (some '' were giving problems)
+    - Python Adjustments: Performed minor fixes on the CSV file to resolve upload issues in PostgreSQL (removal of problematic quotes).
     - SQL cleaning:
-    - Standardized text fields with TRIM() and INITCAP().
+        - Standardized text fields with TRIM() and INITCAP().
         - Handled NULL values, fixed date inconsistencies (Ship Date < Order Date), and removed duplicates.
         - Casted columns to proper types (INT, NUMERIC, etc.).
         - Added a new calculated column: shipping_days (difference between Ship Date and Order Date).
