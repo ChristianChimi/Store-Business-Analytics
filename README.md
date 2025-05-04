@@ -23,4 +23,4 @@ Hi! This repository is focused on Store Business Analytics, with a more Data Ana
           - Filter by customerID
 
 ## **Technologies Used**
-    - **Python**, **SQL**, **PowerBI**.
+    - **Python**, **pgAdmin**, **SQL**, **PowerBI**.
