@@ -10,17 +10,17 @@ This repository focuses on Store Business Analytics, with an emphasis on Data An
         - Casted columns to proper types (INT, NUMERIC, etc.).
         - Added a new calculated column: shipping_days (difference between Ship Date and Order Date).
         - Creating view to simplify queries.
-        - Exported new CSV from postgresql query tool
+        - Exported new CSV from postgresql query tool.
   
 ## **Power-BI**
     - Created two dashboard:
       - Business-focused: track profits by category, by city, by segment.
-        - Map of cities
-        - Track sales by region
+        - Map of cities.
+        - Track sales by region.
         - Filter by: region and category of product.
-      - Customer-focused: Track profit by customers, sales per category
-          - AVG shipping days for every customer
-          - Filter by customerID
+      - Customer-focused: Track profit by customers, sales per category.
+          - AVG shipping days for every customer.
+          - Filter by customerID.
 
 ## **Technologies Used**
 - **Python**, **pgAdmin4**, **SQL**, **PowerBI**.
