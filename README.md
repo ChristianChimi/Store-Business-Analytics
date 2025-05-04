@@ -29,5 +29,8 @@ This repository focuses on Store Business Analytics, with an emphasis on Data An
     - The majority of orders originate from the US.
     - The most profitable category is Technology.
 
+## **Conclusions**
+This project showcases how effective data cleaning and integration with Power BI can generate valuable insights into retail performance. By structuring the data and creating interactive dashboards, we identified key trends such as the dominance of the customer segment, New York's leading profitability, strong order volumes from the US, and the high performance of the Technology category. The result is a clear, data-driven overview that supports strategic business decisions.
+
 ## **Technologies Used**
 - **Python**, **pgAdmin4**, **SQL**, **PowerBI**.
