@@ -1,5 +1,6 @@
 ## **Store Business Intelligence**
 
+## **Overview**
 This repository focuses on Store Business Analytics, with an emphasis on Data Analytics using SQL and Power BI. This approach is more centered on business intelligence and reporting, as opposed to other projects that are more data science-oriented.
 
 ## **Pre-Processing**
@@ -10,7 +11,7 @@ This repository focuses on Store Business Analytics, with an emphasis on Data An
         - Casted columns to proper types (INT, NUMERIC, etc.).
         - Added a new calculated column: shipping_days (difference between Ship Date and Order Date).
         - Creating view to simplify queries.
-        - Exported new CSV from postgresql query tool.
+        - Exported new CSV using the Postgresql query tool.
   
 ## **Power-BI**
     - Created two dashboard:
@@ -21,6 +22,12 @@ This repository focuses on Store Business Analytics, with an emphasis on Data An
       - Customer-focused: Track profit by customers, sales per category.
           - AVG shipping days for every customer.
           - Filter by customerID.
+
+## **Key Insights"
+    - The customer segment has the largest number of users.
+    - New York is the city generating the highest profit.
+    - The majority of orders originate from the US.
+    - The most profitable category is Technology.
 
 ## **Technologies Used**
 - **Python**, **pgAdmin4**, **SQL**, **PowerBI**.
