@@ -23,7 +23,7 @@ This repository focuses on Store Business Analytics, with an emphasis on Data An
         - AVG shipping days for every customer.
         - Filter by customerID.
 
-## **Key Insights"
+## **Key Insights**
 - The customer segment has the largest number of users.
 - New York is the city generating the highest profit.
 - The majority of orders originate from the US.
