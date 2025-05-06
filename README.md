@@ -22,6 +22,7 @@ This repository focuses on Store Business Analytics, with an emphasis on Data An
     - Filter by: region and category of product.
       - Customer-focused: Track profit by customers, sales per category.
         - AVG shipping days for every customer.
+        - Profit by date
         - Filter by customerID.
 
 ## **Key Insights**
