@@ -7,11 +7,11 @@ This repository focuses on Store Business Analytics, using SQL and Power BI. Thi
 - Python Adjustments: Performed minor fixes on the CSV file to resolve upload issues in PostgreSQL (some problematic quotes).
 - SQL cleaning:
   - Standardized text fields with TRIM() and INITCAP().
-    - Handled NULL values, fixed date inconsistencies (Ship Date < Order Date), removed duplicates.
-    - Casted columns to proper types (INT, NUMERIC, etc.).
-    - Added a new calculated column: shipping_days (day of difference between Ship Date and Order Date).
-    - Creating view to simplify future queries.
-    - Exported new CSV using the Postgresql query tool, so i can work on PowerBI.
+  - Handled NULL values, fixed date inconsistencies (Ship Date < Order Date), removed duplicates.
+  - Casted columns to proper types (INT, NUMERIC, etc.).
+  - Added a new calculated column: shipping_days (day of difference between Ship Date and Order Date).
+  - Creating view to simplify future queries.
+  - Exported new CSV using the Postgresql query tool, so i can work on PowerBI.
   
 ## **Power-BI**
 - Created two dashboard:
