@@ -1,4 +1,4 @@
-## **Store Business Intelligence**
+# **Store Business Intelligence**
 ## **Overview**
 This repository focuses on Store Business Analytics, using SQL and Power BI. This approach is more centered on business intelligence and reporting, to diversify from other projects that are more data science-oriented.
 
