@@ -18,6 +18,7 @@ This repository focuses on Store Business Analytics, with an emphasis on Data An
   - Business-focused: track profits by category, by city, by segment.
     - Map of cities.
     - Track sales by region.
+    - Profit by shipment date.
     - Filter by: region and category of product.
       - Customer-focused: Track profit by customers, sales per category.
         - AVG shipping days for every customer.
