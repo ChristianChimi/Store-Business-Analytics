@@ -22,8 +22,8 @@ This repository focuses on Store Business Analytics, using SQL and Power BI. Thi
     - Filter by: region and category of product.
   - Customer-focused: Track profit by customers, sales per category.
     - Average shipping days needed for every customer.
-      - Profit by date.
-      - Filter by customerID.
+    - Profit by date.
+    - Filter by customerID.
 
 ## **Key Insights**
 - The customer segment has the largest number of users.
