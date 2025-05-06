@@ -1,5 +1,4 @@
 ## **Store Business Intelligence**
-
 ## **Overview**
 This repository focuses on Store Business Analytics, using SQL and Power BI. This approach is more centered on business intelligence and reporting, to diversify from other projects that are more data science-oriented.
 
@@ -34,5 +33,5 @@ This repository focuses on Store Business Analytics, using SQL and Power BI. Thi
 ## **Technologies Used**
 - **Python**, **pgAdmin4**, **SQL**, **PowerBI**.
 
-- ## **Conclusions**
+## **Conclusions**
 This project demonstrated the usefulness of the intregration between SQL (Postegre, specifically) and business intelligence tools like PowerBi.
